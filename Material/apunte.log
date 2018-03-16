@@ -1,0 +1,598 @@
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2017.1.5)  8 NOV 2017 00:44
+entering extended mode
+**apunte.tex
+(C:\Users\Irri\codigosacm\apunte.tex
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2009-06-19, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, lao, latin, lat
+vian, lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerm
+an, ngerman-x-2009-06-19, nynorsk, oriya, panjabi, pinyin, polish, portuguese, 
+romanian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swis
+sgerman, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, u
+senglishmax, welsh, loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2007/10/19 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk10.clo"
+File: bk10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+\lst@mode=\count88
+\lst@gtempboxa=\box26
+\lst@token=\toks15
+\lst@length=\count89
+\lst@currlwidth=\dimen103
+\lst@column=\count90
+\lst@pos=\count91
+\lst@lostspace=\dimen104
+\lst@width=\dimen105
+\lst@newlines=\count92
+\lst@lineno=\count93
+\lst@maxwidth=\dimen106
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+\c@lstnumber=\count94
+\lst@skipnumbers=\count95
+\lst@framebox=\box27
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\listings.cfg"
+File: listings.cfg 2007/02/22 1.4 listings configuration
+))
+Package: listings 2007/02/22 1.4 (Carsten Heinz)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2012/02/19 v3.2f Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2012/01/12 v1.4b caption3 kernel (AR)
+\captionmargin=\dimen107
+\captionmargin@=\dimen108
+\captionwidth=\dimen109
+\caption@indent=\dimen110
+\caption@parindent=\dimen111
+\caption@hangindent=\dimen112
+)
+\c@ContinuedFloat=\count96
+Package caption Info: listings package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2012/01/12 v1.1d Sub-captions (AR)
+\c@subfigure=\count97
+\c@subtable=\count98
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.sty"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xy.tex" Bootstrap'ing:
+catcodes, docmode, ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrecat.tex"
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyidioms.tex")
+
+ Xy-pic version 3.8.6 <2011/05/27>
+ Copyright (c) 1991-2011 by Kristoffer H. Rose <krisrose@tug.org>
+ Xy-pic is free software: see the User's Guide for details.
+
+Loading kernel: messages; fonts; allocations: state,
+\X@c=\dimen113
+\Y@c=\dimen114
+\U@c=\dimen115
+\D@c=\dimen116
+\L@c=\dimen117
+\R@c=\dimen118
+\Edge@c=\toks16
+\X@p=\dimen119
+\Y@p=\dimen120
+\U@p=\dimen121
+\D@p=\dimen122
+\L@p=\dimen123
+\R@p=\dimen124
+\Edge@p=\toks17
+\X@origin=\dimen125
+\Y@origin=\dimen126
+\X@xbase=\dimen127
+\Y@xbase=\dimen128
+\X@ybase=\dimen129
+\Y@ybase=\dimen130
+\X@min=\dimen131
+\Y@min=\dimen132
+\X@max=\dimen133
+\Y@max=\dimen134
+\lastobjectbox@=\box28
+\zerodotbox@=\box29
+\almostz@=\dimen135
+ direction,
+\d@X=\dimen136
+\d@Y=\dimen137
+\K@=\count99
+\KK@=\count100
+\Direction=\count101
+\K@dXdY=\dimen138
+\K@dYdX=\dimen139
+\xyread@=\read1
+\xywrite@=\write3
+\csp@=\count102
+\quotPTK@=\dimen140
+
+utility macros; pictures: \xy, positions,
+\swaptoks@@=\toks18
+\connectobjectbox@@=\box30
+ objects,
+\styletoks@=\toks19
+ decorations;
+kernel objects: directionals, circles, text; options; algorithms: directions,
+edges, connections;  Xy-pic loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+)
+Package: xy 2011/05/27 Xy-pic version 3.8.6
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyall.tex"
+ Xy-pic option: All features v.3.8
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycurve.tex"
+ Xy-pic option: Curve and Spline extension v.3.12 curve,
+\crv@cnt@=\count103
+\crvpts@=\toks20
+\splinebox@=\box31
+\splineval@=\dimen141
+\splinedepth@=\dimen142
+\splinetol@=\dimen143
+\splinelength@=\dimen144
+ circles,
+\L@=\dimen145
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyframe.tex"
+ Xy-pic option: Frame and Bracket extension v.3.13 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycmtip.tex"
+ Xy-pic option: Computer Modern tip extension v.3.7
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xytips.tex"
+ Xy-pic option: More Tips extension v.3.9 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyline.tex"
+ Xy-pic option: Line styles extension v.3.10
+\xylinethick@=\dimen146
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyrotate.tex"
+ Xy-pic option: Rotate and Scale extension v.3.8 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xycolor.tex"
+ Xy-pic option: Colour extension v.3.11 loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xymatrix.tex"
+ Xy-pic option: Matrix feature v.3.14
+\Row=\count104
+\Col=\count105
+\queue@=\toks21
+\queue@@=\toks22
+\qcount@=\count106
+\qcount@@=\count107
+\matrixsize@=\count108
+ loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xyarrow.tex"
+ Xy-pic option: Arrow and Path feature v.3.9 path, \ar, loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xygraph.tex"
+ Xy-pic option: Graph feature v.3.11 loaded) loaded)
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf.tex"
+ Xy-pic option: PDF driver v.1.7 Xy-pic pdf driver: `color' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-co.tex" loaded)
+Xy-pic pdf driver: `curve' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-cu.tex" loaded)
+Xy-pic pdf driver: `frame' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-fr.tex" loaded)
+Xy-pic pdf driver: `line' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-li.tex" loaded)
+Xy-pic pdf driver: `rotate' extension support
+("C:\Program Files\MiKTeX 2.9\tex\generic\xypic\xypdf-ro.tex" loaded) loaded))
+("C:\Program Files\MiKTeX 2.9\tex\latex\imakeidx\imakeidx.sty"
+Package: imakeidx 2012/05/09 v1.1 Package for typesetting indices in a synchron
+ous mode
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2008/08/13 v2.6a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+\XKV@depth=\count109
+File: xkeyval.tex 2008/08/13 v2.6a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2011/06/27 v1.7a multicolumn formatting (FMi)
+\c@tracingmulticols=\count110
+\mult@box=\box32
+\multicol@leftmargin=\dimen147
+\c@unbalance=\count111
+\c@collectmore=\count112
+\doublecol@number=\count113
+\multicoltolerance=\count114
+\multicolpretolerance=\count115
+\full@width=\dimen148
+\page@free=\dimen149
+\premulticols=\dimen150
+\postmulticols=\dimen151
+\multicolsep=\skip43
+\multicolbaselineskip=\skip44
+\partial@page=\box33
+\last@line=\box34
+\mult@rightbox=\box35
+\mult@grightbox=\box36
+\mult@gfirstbox=\box37
+\mult@firstbox=\box38
+\@tempa=\box39
+\@tempa=\box40
+\@tempa=\box41
+\@tempa=\box42
+\@tempa=\box43
+\@tempa=\box44
+\@tempa=\box45
+\@tempa=\box46
+\@tempa=\box47
+\@tempa=\box48
+\@tempa=\box49
+\@tempa=\box50
+\@tempa=\box51
+\@tempa=\box52
+\@tempa=\box53
+\@tempa=\box54
+\@tempa=\box55
+\c@columnbadness=\count116
+\c@finalcolumnbadness=\count117
+\last@try=\dimen152
+\multicolovershoot=\dimen153
+\multicolundershoot=\dimen154
+\mult@nat@firstbox=\box56
+\colbreak@box=\box57
+\multicol@sort@counter=\count118
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
+Package: amsmath 2000/07/18 v2.13 AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
+Package: amstext 2000/06/29 v2.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks25
+\ex@=\dimen155
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen156
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ams\math\amsopn.sty"
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count119
+LaTeX Info: Redefining \frac on input line 211.
+\uproot@=\count120
+\leftroot@=\count121
+LaTeX Info: Redefining \overline on input line 307.
+\classnum@=\count122
+\DOTSCASE@=\count123
+LaTeX Info: Redefining \ldots on input line 379.
+LaTeX Info: Redefining \dots on input line 382.
+LaTeX Info: Redefining \cdots on input line 467.
+\Mathstrutbox@=\box58
+\strutbox@=\box59
+\big@size=\dimen157
+LaTeX Font Info:    Redeclaring font encoding OML on input line 567.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
+\macc@depth=\count124
+\c@MaxMatrixCols=\count125
+\dotsspace@=\muskip10
+\c@parentequation=\count126
+\dspbrk@lvl=\count127
+\tag@help=\toks26
+\row@=\count128
+\column@=\count129
+\maxfields@=\count130
+\andhelp@=\toks27
+\eqnshift@=\dimen158
+\alignsep@=\dimen159
+\tagshift@=\dimen160
+\tagwidth@=\dimen161
+\totwidth@=\dimen162
+\lineht@=\dimen163
+\@envbody=\toks28
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks29
+LaTeX Info: Redefining \[ on input line 2666.
+LaTeX Info: Redefining \] on input line 2667.
+)
+\apunte@idxfile=\write4
+
+Writing index file apunte.idx
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2009/02/05 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 91.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count131
+))
+\Gin@req@height=\dimen164
+\Gin@req@width=\dimen165
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjustbox.sty"
+Package: adjustbox 2011/11/14 v0.8 Adjusting TeX boxes (trim, clip, ...)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjcalc.sty")
+("C:\Program Files\MiKTeX 2.9\tex\latex\collectbox\collectbox.sty"
+Package: collectbox 2011/08/23 v0.4 Collect macro arguments as boxes
+\collectedbox=\box60
+)
+\adjbox@tllx=\dimen166
+\adjbox@tlly=\dimen167
+\adjbox@turx=\dimen168
+\adjbox@tury=\dimen169
+\adjbox@Width=\dimen170
+\adjbox@Height=\dimen171
+\adjbox@Depth=\dimen172
+\adjbox@Totalheight=\dimen173
+Package adjustbox Info: Using driver 'adjpdftex.def'. on input line 290.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\adjustbox\adjpdftex.def"
+File: adjpdftex.def 2011/11/14 v0.8 adjustbox clip driver for pdftex
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\varwidth.sty"
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box61
+\sift@deathcycles=\count132
+\@vwid@loff=\dimen174
+\@vwid@roff=\dimen175
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.sty"
+Package: babel 2008/07/08 v3.8m The Babel package
+
+*************************************
+* Local config file bblopts.cfg used
+*
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\bblopts.cfg"
+File: bblopts.cfg 2006/07/31 v1.0 MiKTeX 'babel' configuration
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\spanish.ldf"
+Language: spanish.ldf 2009/01/02 v5.0h Spanish support from the babel system
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\babel\babel.def"
+File: babel.def 2008/07/08 v3.8m Babel common definitions
+\babel@savecnt=\count133
+\U@D=\dimen176
+)
+\es@datefmt=\count134
+\es@quottoks=\toks30
+\es@quotdepth=\count135
+Package babel Info: Making " an active character on input line 492.
+Package babel Info: Making . an active character on input line 585.
+Package babel Info: Making < an active character on input line 630.
+Package babel Info: Making > an active character on input line 630.
+))
+(C:\Users\Irri\codigosacm\apunte.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+\c@lstlisting=\count136
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+Package xypdf Info: Line width: 0.39998pt on input line 15.
+
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count137
+\scratchdimen=\dimen177
+\scratchbox=\box62
+\nofMPsegments=\count138
+\nofMParguments=\count139
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count140
+\MPscratchDim=\dimen178
+\MPnumerator=\count141
+\makeMPintoPDFobject=\count142
+\everyMPtoPDFconversion=\toks32
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstlang1.sty"
+File: lstlang1.sty 2004/09/05 1.3 listings language file
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
+File: lstmisc.sty 2007/02/22 1.4 (Carsten Heinz)
+)
+<gataca.png, id=1, 513.92pt x 480.79625pt>
+File: gataca.png Graphic file (type png)
+ <use gataca.png>
+Package pdftex.def Info: gataca.png used on input line 45.
+(pdftex.def)             Requested size: 142.26378pt x 133.09605pt.
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Irri/codigosacm/
+gataca.png>]
+(C:\Users\Irri\codigosacm\apunte.toc
+
+LaTeX Font Warning: Font shape `OT1/cmr/bx/sc' undefined
+(Font)              using `OT1/cmr/bx/n' instead on input line 2.
+
+
+Package spanish Warning: Replacing `OT1/cmr/bx/sc' by 
+(spanish)                faked small caps on input line 2.
+
+[1
+
+])
+\tf@toc=\write5
+ [2] (C:\Users\Irri\codigosacm\Misc/Abreviaciones.cpp
+LaTeX Font Info:    Font shape `OT1/cmtt/bx/n' in size <8> not available
+(Font)              Font shape `OT1/cmtt/m/n' tried instead on input line 1.
+) [1
+
+
+]
+Cap\'{\i }tulo 1.
+(C:\Users\Irri\codigosacm\Estructuras/FTaRcP.cpp) [1
+
+
+]
+(C:\Users\Irri\codigosacm\Estructuras/FTaPcR.cpp)
+(C:\Users\Irri\codigosacm\Estructuras/UnionFind.cpp) [2]
+(C:\Users\Irri\codigosacm\Estructuras/SegTree.cpp [3])
+(C:\Users\Irri\codigosacm\Estructuras/SegTreeLazy.cpp [4] [5])
+(C:\Users\Irri\codigosacm\Estructuras/SegmentTreePair.cpp [6]
+Missing character: There is no Ã in font cmitt10!
+Missing character: There is no ¡ in font cmitt10!
+ [7])
+(C:\Users\Irri\codigosacm\Estructuras/sparsetable.cpp) [8]
+(C:\Users\Irri\codigosacm\Estructuras/wavelet.cpp [9] [10]) [11]
+Cap\'{\i }tulo 2.
+(C:\Users\Irri\codigosacm\Grafos/dfs.cpp)
+(C:\Users\Irri\codigosacm\Grafos/brexit.cpp [12
+
+])
+(C:\Users\Irri\codigosacm\Grafos/kruskal.cpp [13])
+(C:\Users\Irri\codigosacm\Grafos/EdmonBlonsson.cpp [14] [15] [16])
+(C:\Users\Irri\codigosacm\Grafos/FloodFill.cpp [17]) [18]
+Cap\'{\i }tulo 3.
+(C:\Users\Irri\codigosacm\Math/pascal.cpp [19
+
+])
+(C:\Users\Irri\codigosacm\Math/prime_sieve.cpp)
+(C:\Users\Irri\codigosacm\Math/gaussianelimination.cpp [20]) [21]
+Cap\'{\i }tulo 4.
+(C:\Users\Irri\codigosacm\Geometria/UnionFind&&Segment.cpp [22
+
+] [23])
+(C:\Users\Irri\codigosacm\Geometria/rectangleunion.cpp [24])
+(C:\Users\Irri\codigosacm\Geometria/closestpair.cpp [25])
+(C:\Users\Irri\codigosacm\Geometria/hideandseek.cpp [26] [27])
+(C:\Users\Irri\codigosacm\Geometria/fence.cpp [28])
+(C:\Users\Irri\codigosacm\Geometria/distPointLine.cpp) [29]
+(C:\Users\Irri\codigosacm\Geometria/distPointSegment.cpp)
+(C:\Users\Irri\codigosacm\Geometria/convexCheck.cpp) [30]
+Cap\'{\i }tulo 5.
+<xymatrix 6x7 836>
+Overfull \hbox (21.4983pt too wide) detected at line 171
+[]
+ []
+
+[31
+
+] (C:\Users\Irri\codigosacm\Flujo/Dinic.cpp [32] [33]) [34]
+Cap\'{\i }tulo 6.
+(C:\Users\Irri\codigosacm\DP/01knap.cpp) (C:\Users\Irri\codigosacm\DP/lcs.cpp
+[35
+
+]) (C:\Users\Irri\codigosacm\DP/BitonicSequence.cpp [36])
+(C:\Users\Irri\codigosacm\DP/BoxStacking.java [37] [38] [39])
+(C:\Users\Irri\codigosacm\DP/break.java [40] [41] [42] [43])
+(C:\Users\Irri\codigosacm\DP/BurstBallon.java [44] [45])
+(C:\Users\Irri\codigosacm\DP/Catalan.cpp [46])
+(C:\Users\Irri\codigosacm\DP/CoinChanging.cpp)
+(C:\Users\Irri\codigosacm\DP/CuttingStick.cpp
+Missing character: There is no Ã in font cmitt10!
+Missing character: There is no ± in font cmitt10!
+ [47])
+(C:\Users\Irri\codigosacm\DP/DistinctSubsequence.java [48])
+(C:\Users\Irri\codigosacm\DP/DivideAndConquer.cpp [49]) [50]
+(C:\Users\Irri\codigosacm\DP/EditDistance.java [51] [52])
+(C:\Users\Irri\codigosacm\DP/Sum2DRectangle.java [53])
+(C:\Users\Irri\codigosacm\DP/SumDice.java [54]) [55]
+Cap\'{\i }tulo 7.
+(C:\Users\Irri\codigosacm\Misc/dates.cpp)
+(C:\Users\Irri\codigosacm\Misc/inversioncount.cpp [56
+
+])
+(C:\Users\Irri\codigosacm\DP/longestpalindromesubsequence.cpp [57]) [58]
+Cap\'{\i }tulo 8.
+(C:\Users\Irri\codigosacm\Misc/fastio.cpp) [59
+
+]
+<foto.png, id=222, 714.41907pt x 886.06032pt>
+File: foto.png Graphic file (type png)
+ <use foto.png>
+Package pdftex.def Info: foto.png used on input line 223.
+(pdftex.def)             Requested size: 241.49895pt x 299.51242pt.
+ [60 <C:/Users/Irri/codigosacm/foto.png>]
+runsystem(makeindex apunte.idx)...executed (allowed).
+
+ (C:\Users\Irri\codigosacm\apunte.ind) [61
+
+
+
+]
+(C:\Users\Irri\codigosacm\apunte.aux)
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 9706 strings out of 494045
+ 132026 string characters out of 3148391
+ 418637 words of memory out of 3000000
+ 12714 multiletter control sequences out of 15000+200000
+ 12422 words of font info for 49 fonts, out of 3000000 for 9000
+ 715 hyphenation exceptions out of 8191
+ 47i,16n,97p,3238b,1684s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Pr
+ogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Fi
+les/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx7.pfb><C:/Program Files/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX 2.9/f
+onts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9/fonts/typ
+e1/public/amsfonts/cm/cmitt10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfo
+nts/cm/cmmi7.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+r10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><
+C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program
+ Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Program Files/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmsl10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type
+1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public
+/amsfonts/cm/cmtt8.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xy
+atip10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/xypic/xybtip10.pfb>
+Output written on apunte.pdf (65 pages, 1113393 bytes).
+PDF statistics:
+ 288 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
