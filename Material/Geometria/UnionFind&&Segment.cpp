@@ -1,5 +1,5 @@
 #include <bits/stdc++.h>
-using namespace std; 
+using namespace std;
 template< class T > bool inside(T a, T b, T c) { return a<=b && b<=c; }
 typedef vector<int> vi;
 
@@ -69,7 +69,7 @@ int main(){
     int t;
   cin>>t;
   int n,m;
-  while(t--){  
+  while(t--){
     Point p[n];
     Point q[n];
     cin>>n>>m;
